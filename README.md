@@ -12,7 +12,7 @@ This project is a RESTful API built with Node.js and Express. It allows users to
 1. **Get All Users**
    - Route: `/users`
    - **Screenshot:**  
-     ![All Users](./Screenshot_postman/user_list.png)
+     ![All Users](./Screenshot_postman/users_list.png)
 
 2. **Get User by ID**
    - Route: `/users/:id`
