@@ -31,7 +31,7 @@ This project is a RESTful API built with Node.js and Express. It allows users to
 
 ## What I Learned
 - Building a RESTful API with multiple endpoints.
-- Handling file operations using the `fs` module.
+- Handling file operations using the fs module.
 - Testing APIs using Postman.
 - Implementing error handling for invalid inputs.
 
