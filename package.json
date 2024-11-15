@@ -1,0 +1,17 @@
+{
+  "name": "dabone_latif_10012200015",
+  "version": "1.0.0",
+  "description": "create a node js application using Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "latif1000"
+  ],
+  "author": "Abdoul Latif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
