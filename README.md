@@ -1,7 +1,7 @@
-<!-- RESTful.API -->
+RESTful.API
 
-User Management RESTful API
- Overview
+--User Management RESTful API--
+          --Overview
 This project is a RESTful API built with Node.js and Express. It allows users to:
  View all users.
  Find users by ID.
