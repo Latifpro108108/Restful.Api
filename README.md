@@ -8,28 +8,6 @@ This project is a RESTful API built with Node.js and Express. It allows users to
  Find users by profession.
  Find users by name.
 
-Endpoints
-
-1. Get All Users
-   - Route: `/users`
-   - **Screenshot:**  
-     ![All Users](./Screenshot_postman/users_list.png)
-
-2. **Get User by ID**
-   - Route: `/users/:id`
-   - **Screenshot:**  
-     ![User by ID](./Screenshot_postman/specific_user.png)
-
-3. **Get Users by Profession**
-   - Route: `/users/profession/:profession`
-   - **Screenshot:**  
-     ![Users by Profession](./Screenshot_postman/profession.png)
-
-4. **Get User by Name**
-   - Route: `/users/name/:name`
-   - **Screenshot:**  
-     ![User by Name](./Screenshot_postman/name.png)
-
 What I Learned
 Building a RESTful API with multiple endpoints.
 Handling file operations using the `fs` module.
