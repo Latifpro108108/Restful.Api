@@ -10,13 +10,17 @@ This project is a RESTful API built with Node.js and Express. It allows users to
  Find users by profession.
  Find users by name.
 
-What I Learned
+          --What I Learned
+
+
 Building a RESTful API with multiple endpoints.
-Handling file operations using the `fs` module.
+Handling file operations using the 'fs' module.
 Testing APIs using Postman.
 Implementing error handling for invalid inputs and ensuring the API works as expected.
 
-Testing
+            Testing
+
+
 The following screenshots demonstrate the successful execution of the API endpoints using Postman:
 
 - Get All Users: Displays all users from the `/users` route.  
@@ -31,7 +35,10 @@ The following screenshots demonstrate the successful execution of the API endpoi
 - Get User by Name: Fetches a user by their name with the `/users/name/:name` route.  
   ![User by Name](./Screenshot_postman/name.png)
 
-Discussion
+
+                    --Discussion
+
+
 This project helped me understand the basics of API development and testing. Testing with Postman was especially useful for debugging and verifying the API’s outputs. I also implemented error handling to ensure the API can respond appropriately when invalid inputs are provided, such as non-existent user IDs, professions, or names.
 
 Error Handling Implementation
